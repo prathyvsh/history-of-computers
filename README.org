@@ -1,0 +1,70 @@
+* History of Computer Science
+Exploring history of CS
+
+* People
+
+** Alonzo Church
+
+** Alan Turing
+
+** Mervyn Pragnell
+
+** Christopher Strachey
+
+*** My Years with Strachey
+Recollection of Peter Landin on Strachey
+https://link.springer.com/article/10.1023/A:1010057925827
+
+*** Celebrating the life and research of Strachey 100 at Oxford (2016)
+https://www.cs.ox.ac.uk/strachey100/
+
+** Peter Landin
+
+*** Rational deconstruction of Landin's SECD Machine with the J Operator
+Olivier Danvy, Kevin Millikin (2008)
+
+** Robin Milner
+
+***  [[http://sml-family.org/history/ML2015-talk.pdf][History of StandardML]]
+David MacQueen (2015)
+
+** Martin Davis
+
+* Timeline
+
+* 60s
+
+** '64
+
+The mechanical evaluation of expressions (MEOE) — Landin
+
+** '65
+A generalization of Jumps and Labels — Landin
+
+** '66
+The next 700 programming languages — Landin
+
+** '67
+Fundamental Concepts in Programming Languages (FCPL)
+Strachey
+
+** '69
+Denotational Semantics — Strachey, Scott
+Programs and their Proofs: An Algebraic Approach — Landin, Burstall
+
+* 70s
+
+** '73
+Precedence Parsers — Vaughn Pratt
+
+** '78
+Completion of LCF with ML
+
+* 80s
+
+** '80
+Vax ML for Functional Abstract Machine — Luca Cardelli
+
+** '86
+Laboratory for Foundations of Computer Science — Milner, Burstall, Dave MacQueen
+Definition of StandardML — Milner, Tofte, Harper
