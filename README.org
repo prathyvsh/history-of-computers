@@ -25,10 +25,16 @@ Olivier Danvy, Kevin Millikin (2008)
 
 ** Robin Milner
 
-***  [[http://sml-family.org/history/ML2015-talk.pdf][History of StandardML]]
+*** [[http://sml-family.org/history/ML2015-talk.pdf][History of StandardML]]
+
 David MacQueen (2015)
+Presentation slides on the evolution of ML languages
+✅
 
 ** Martin Davis
+
+** David Turner
+[[https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf][Some History of Functional Programming Languages (2012)]]
 
 * Timeline
 
