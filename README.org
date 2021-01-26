@@ -1,6 +1,33 @@
 * History of Computer Science
 Exploring history of CS
 
+
+By 1970s emphasis started to shift from computers that performed procedures to objects of computation and relations between them.
+
+Programming languages began to be embedded in programming environments.
+
+** Time sharing
+
+Inspired from SAGE and SABRE developed by Jay Forrester.
+
+** Virtual Machines
+
+** UNIX
+
+** Internet
+
+** Structured Programming
+
+*  Hardware
+
+Mercury Delay Lines
+Cathode Ray Tubes
+Diodes
+Transistors
+Integrate Circuits
+
+First IC made its commercial appearance in IBM System 360 (1964)
+
 * People
 
 ** Alonzo Church
@@ -82,6 +109,9 @@ Michael S. Mahoney
 
 ** [[www.princeton.edu/~hos/Mahoney/articles/hcht/hchtfr.html][The History of Computing in the History of Technology]]
 Micheal S. Mahoney
+
+** [[https://cse.sc.edu/~mgv/csce580sp15/Newell_Issues1983.pdf][Intellectual issues in the history of artificial intelligence]]
+Allen Newell
 
 * Books
 
