@@ -75,6 +75,14 @@ Vax ML for Functional Abstract Machine — Luca Cardelli
 Laboratory for Foundations of Computer Science — Milner, Burstall, Dave MacQueen
 Definition of StandardML — Milner, Tofte, Harper
 
+* Articles
+
+** [[http://www.rutherfordjournal.org/article030107.html][The Structures of Computation and the Mathematical Structure of Nature]]
+Michael S. Mahoney
+
+** [[www.princeton.edu/~hos/Mahoney/articles/hcht/hchtfr.html][The History of Computing in the History of Technology]]
+Micheal S. Mahoney
+
 * Books
 
 ** [[https://amzn.to/3iOSDJH][Pieces of Action]]
