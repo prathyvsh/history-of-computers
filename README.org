@@ -91,3 +91,9 @@ Ian Watson
 
 ** [[https://amzn.to/3r0lttL][Turing: Pioneer of the Information Age]]
 Jack Copeland
+
+** [[https://amzn.to/2KPgFru][Bit by Bit: An Illustrated History of Computers]]
+Stan Augarten
+
+** [[https://amzn.to/3sWSlFn][State of the Art: A Photographic History of the Integrated Circuit]]
+Stan Augarten
