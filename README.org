@@ -74,3 +74,20 @@ Vax ML for Functional Abstract Machine — Luca Cardelli
 ** '86
 Laboratory for Foundations of Computer Science — Milner, Burstall, Dave MacQueen
 Definition of StandardML — Milner, Tofte, Harper
+
+* Books
+
+** [[https://amzn.to/3iOSDJH][Pieces of Action]]
+Vannevar Bush
+
+** [[https://amzn.to/2YixqOU][Endless Frontier: Vannevar Bush, Engineer of the American Century]]
+G. Pascal Zachary
+
+** [[https://www.nsf.gov/about/history/EndlessFrontier_w.pdf][Science: The Endless Frontier]]
+Vannevar Bush
+
+** [[https://amzn.to/3a8PsbN][The Universal Machine: From the Dawn of Computing to Digital Consciousness]]
+Ian Watson
+
+** [[https://amzn.to/3r0lttL][Turing: Pioneer of the Information Age]]
+Jack Copeland
