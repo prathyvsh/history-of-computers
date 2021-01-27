@@ -104,10 +104,16 @@ Definition of StandardML — Milner, Tofte, Harper
 
 * Articles
 
-** [[http://www.rutherfordjournal.org/article030107.html][The Structures of Computation and the Mathematical Structure of Nature]]
+** ✅ [[http://www.rutherfordjournal.org/article030107.html][The Structures of Computation and the Mathematical Structure of Nature]]
 Michael S. Mahoney
 
-** [[www.princeton.edu/~hos/Mahoney/articles/hcht/hchtfr.html][The History of Computing in the History of Technology]]
+** ✅ [[www.princeton.edu/~hos/Mahoney/articles/hcht/hchtfr.html][The History of Computing in the History of Technology]]
+Micheal S. Mahoney
+
+** ✅ [[www.princeton.edu/~hos/Mahoney/articles/cybinfo/cybinfofr.html][Cybernetics and Information Technology]]
+Micheal S. Mahoney
+
+** [[www.princeton.edu/~hos/Mahoney/articles/sweroots/sweroots.htm][The Roots of Software Engineering]]
 Micheal S. Mahoney
 
 ** [[https://cse.sc.edu/~mgv/csce580sp15/Newell_Issues1983.pdf][Intellectual issues in the history of artificial intelligence]]
