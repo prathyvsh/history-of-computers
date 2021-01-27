@@ -74,6 +74,8 @@ The mechanical evaluation of expressions (MEOE) — Landin
 ** '65
 A generalization of Jumps and Labels — Landin
 
+The term software engineering is popularize as a result of Study Group on Computer Science of the NATO Science Committee.
+
 ** '66
 The next 700 programming languages — Landin
 
@@ -141,3 +143,6 @@ Stan Augarten
 
 ** [[https://amzn.to/3sWSlFn][State of the Art: A Photographic History of the Integrated Circuit]]
 Stan Augarten
+
+** [[https://amzn.to/3qTZQLx][A History of Computing]]
+Michael R. Williams
