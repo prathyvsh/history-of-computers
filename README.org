@@ -28,6 +28,39 @@ Integrate Circuits
 
 First IC made its commercial appearance in IBM System 360 (1964)
 
+** Fields of computer science today (roughly):
+
+Determine if I should invoke the classification of Theory A vs. Theory B
+- PLT
+- Algorithms
+- Computational complexity
+- Numerical analysis
+- Automata theory
+- Formal languages and linguistics
+- Databases
+- Adaptive Systems
+- Theorem proving
+- Artificial Intelligence
+- Pattern Recognition
+
+* Switching Theory
+
+David A. Huffman
+E. F. Moore
+G. H. Mealy
+
+Universal algebra and algebraic structures were brought to bear upon machines and algebraic machine theory was well established by 1964.
+
+Using these theoretical vantage point, one could evaluate patterns of input given to a machine as a mapping: partition of semigroups
+
+Turing machines shifted attention from decidability to tractability and enabled classification of problems in terms of computing resources required for their solution.
+
+Michael O. Rabin
+Juris Hartmanis
+Richard E. Stearns
+Steven Cook
+Richard Karp
+
 * People
 
 ** Alonzo Church
