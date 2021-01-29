@@ -151,8 +151,10 @@ Micheal S. Mahoney
 ** ✅ [[https://www.princeton.edu/~hos/Mahoney/articles/sweroots/sweroots.htm][The Roots of Software Engineering]]
 Micheal S. Mahoney
 
-** [[http://www.princeton.edu/~hos/Mahoney/articles/compsci/sansebas.html][Computers and Mathematics: The Search for a Discipline of Computer Science (1992)]]
+** ✅ [[http://www.princeton.edu/~hos/Mahoney/articles/compsci/sansebas.html][Computers and Mathematics: The Search for a Discipline of Computer Science (1992)]]
 Michael S. Mahoney
+
+Neat article that outlines how a search for mathematization of computer science evolved. The article draws to a close emphasizing that we are still far away from a good theoretical basis for computer science and that it might involve a new historical philosophical structure of mathematization.
 
 ** [[https://cse.sc.edu/~mgv/csce580sp15/Newell_Issues1983.pdf][Intellectual issues in the history of artificial intelligence]]
 Allen Newell
