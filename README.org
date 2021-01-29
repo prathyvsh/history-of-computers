@@ -179,3 +179,16 @@ Stan Augarten
 
 ** [[https://amzn.to/3qTZQLx][A History of Computing]]
 Michael R. Williams
+
+** [[IBM’s early Computers]]
+Charles J. Bashe, Lyle R. Johnson, John H. Palmer, Emerson W. Pugh
+
+** [[https://monoskop.org/images/b/bc/Berkeley_Edmund_Callis_Giant_Brains_or_Machines_That_Think.pdf][Giant Brains or Machines That Think]]
+Edmund C. Berkeley
+
+** [[https://amzn.to/3cmf1ZI][Reckoners: The Prehistory of the Digital Computer, From Relays to the Stored Program Concept (1982)]]
+Paul E. Ceruzzi
+
+** [[https://amzn.to/2L0pMpo][The Soul of a New Machine]]
+
+** [[https://amzn.to/3taejoA][Origins of Digital Computers: Selected Papers]]
